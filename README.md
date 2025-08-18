@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development![icons8-web-24](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/306ac858-d8a3-4f0f-9f62-2aed59b1d24f)
 - 👨‍💻 I'm currently Working as a Software Engineer
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me "556haran@gmail.com" &  (![icons8-whatsapp-16](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3309b025-3a6e-49d7-996b-875c868778a4)+91 9003249275)
+- 📫 How to reach me "harangr0313@gmail.com" &  (![icons8-whatsapp-16](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3309b025-3a6e-49d7-996b-875c868778a4)+91 9003249275)
 
   
 
