@@ -48,7 +48,3 @@
 ![icons8-linux-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/431b59f2-f70d-4c94-90ec-c4d6fa4f6be6)
 ![icons8-apple-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e80a9c81-020b-4200-a3f3-683a3b16f9d8)
 
-
-
-
-create me a readme.md file for my github profile it need to look mordern and with all technical stack i know and growing with
