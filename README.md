@@ -1,51 +1,205 @@
+# <div align="center">
 
-- 👋 Hi, I’m @🅷🅰🆁🅰🅽
-- 👀 I’m interested in Web Development![icons8-web-24](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/306ac858-d8a3-4f0f-9f62-2aed59b1d24f)
-- 👨‍💻 I'm currently Working as a Software Engineer
-- 🌱 I’m currently learning React Native
-- 📫 How to reach me "harangr0313@gmail.com" &  (![icons8-whatsapp-16](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3309b025-3a6e-49d7-996b-875c868778a4)+91 9003249275)
+# Hi 👋, I'm Haran
 
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Always+Learning+New+Technologies;Building+Modern+Web+Applications" />
 
-"𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐰𝐡𝐢𝐜𝐡 𝐈 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐰𝐨𝐫𝐤𝐞𝐝 and working 👨‍💻"
+</div>
 
-✩✩▁𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁✩✩
-                 
-![icons8-html-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/407dc889-b825-4e3d-b28d-9e602709af4a)
-![icons8-css-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/aeb473a1-b487-47d4-b6a5-9ecb668bacd3)
-![icons8-javascript-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d12e6da8-a08b-4340-a459-f659b6558540)
-![icons8-bootstrap-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/c2e6562c-80b0-4961-aa37-a0c5da7ccb18)
-![icons8-react-native-48 (1)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/760cea77-a92b-4e81-83b3-9928284c3aee)
-![icons8-nextjs-48 (3)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/1ec2166d-edfc-48f8-8da1-3dee88a1cb7c)
-![icons8-vuejs-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e905c4ac-f412-45a2-9d72-e7b7e401ded5)
+---
 
+<div align="center">
 
+### 🚀 Software Engineer | Full Stack Developer
 
-✩✩▁𝐀𝐏𝐈 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠y▁✩✩
+💻 Passionate about building scalable web applications
 
-![icons8-graphql-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/005e8fa3-ffc5-4e93-a421-67acf21c2beb)
-![icons8-rest-api-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/2d5a3991-d1e1-4238-8be1-a636914cf3fa)
+🌱 Currently exploring **React Native** & Mobile Development
 
+⚡ Love creating modern UI, APIs & cloud-ready applications
 
+</div>
 
-✩✩▁𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁✩✩
+---
 
-![icons8-my-sql-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e8316b7d-194a-4f70-9275-c20ecb532ca5)
-![icons8-mysql-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/0cb6ba24-8a47-4c0e-a0cf-9cf3bdf052d8)
-![icons8-firebase](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/12e7f53b-f9aa-4b05-aacd-f6677352b3bd)
+## 👨‍💻 About Me
 
+```javascript
+const haran = {
+    role: "Software Engineer",
+    location: "India 🇮🇳",
 
+    currentlyLearning: [
+        "React Native",
+        "Advanced Next.js",
+        "Cloud Architecture"
+    ],
 
-✩✩▁𝐃𝐞𝐯𝐨𝐩𝐬▁✩✩
+    interests: [
+        "Web Development",
+        "Frontend Engineering",
+        "Backend Development",
+        "DevOps",
+        "Open Source"
+    ],
 
-![icons8-kubernetes-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3228b2d9-252e-4eab-8f92-78d538d93947)
-![icons8-docker-a-set-of-coupled-software-as-a-service-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/bf50ae20-f14c-471d-ac01-4fbbb042cf7f)
+    askMeAbout: [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "REST APIs",
+        "GraphQL",
+        "Firebase"
+    ],
 
+    funFact: "I enjoy turning ideas into real-world applications 🚀"
+};
+```
 
-✩✩▁𝐎𝐒▁✩✩
+---
 
-![icons8-windows-11-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d4b3d546-912a-4da9-a544-d0876c1bf139)
-![icons8-linux-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/431b59f2-f70d-4c94-90ec-c4d6fa4f6be6)
-![icons8-apple-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e80a9c81-020b-4200-a3f3-683a3b16f9d8)
+# 🚀 Tech Stack
 
+## 🎨 Frontend
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,bootstrap"/>
+
+</p>
+
+---
+
+## ⚙️ Backend & APIs
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase"/>
+
+</p>
+
+> REST API • GraphQL
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github"/>
+
+</p>
+
+---
+
+## 💻 Operating Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=windows,linux,apple"/>
+
+</p>
+
+---
+
+# 📚 Currently Growing In
+
+- 📱 React Native
+- ⚡ Advanced Next.js
+- ☁️ Cloud Deployment
+- 🔥 Performance Optimization
+- 🏗️ System Design
+- 🤖 AI Powered Applications
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harikrishnabaskaran&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnabaskaran&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnabaskaran&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harikrishnabaskaran&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:harangr0313@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919003249275">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<!-- Add your LinkedIn -->
+<!--
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+-->
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=harikrishnabaskaran&style=for-the-badge&color=blue"/>
+
+</div>
